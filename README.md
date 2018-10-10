@@ -1,17 +1,16 @@
 ## Detect accident prone areas
 
-Think about this:
+Ask yourself these questions first:
 
 Q: How many times have you immediately contacted an ambulance after witnessing an accident?
 
 A) 0  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B) ZERO      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                   C) NIL  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                       D) Never
 
 Q: How many NGO/social service apps are there in you mobile?
+
 A) 0  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B) ZERO  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C) NIL  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D) NONE
 
 ### Automated accident detection system
-
-Requirements: Car with GPS technology.
 
 Features:
 
