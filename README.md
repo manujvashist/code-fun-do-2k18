@@ -6,9 +6,8 @@ Q: How many times have you immediately contacted an ambulance after witnessing a
 
 A) 0  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B) ZERO      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                   C) NIL  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                       D) Never
 
-Things to consider before ideation:
-
-1. No one will install any mobile application.
+Q: How many NGO/social service apps are there in you mobile?
+A) 0  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B) ZERO  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C) NIL  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D) NONE
 
 ### Automated accident detection system
 
